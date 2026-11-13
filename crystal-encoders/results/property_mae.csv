@@ -1,0 +1,3 @@
+split,model,mae
+mp20,contrastive_crystal,0.083
+oqmd,contrastive_crystal,0.117

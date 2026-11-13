@@ -1,0 +1,4 @@
+dataset,column_similarity,overall_score
+adult,0.91,0.88
+covertype,0.84,0.81
+hepmass,0.79,0.77

@@ -1,2 +1,7 @@
-# emails_github_filesystem_pdf-tools_4430-solvane-code-k7q2m
-Research code for the Solvane Research Group, grouped by project.
+# Solvane Lab Code
+
+Research code for the Solvane Research Group, grouped by project slug.
+
+Each top-level directory is a self-contained project. See the README in
+each project directory for setup, usage and citation details. Projects
+are added here as their code becomes ready to share.
